@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>GhostTag Privacy Policy</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  body { font-family: -apple-system, system-ui, sans-serif; max-width: 700px; margin: 40px auto; padding: 0 20px; line-height: 1.6; color: #222; }
+  h1 { font-size: 26px; }
+  h2 { font-size: 18px; margin-top: 32px; }
+  .updated { color: #666; font-size: 14px; }
+</style>
+</head>
+<body>
+<h1>GhostTag Privacy Policy</h1>
+<p class="updated">Last updated: October 1, 2026</p>
+
+<p>GhostTag ("the app") is a location-based hide-and-seek game. This policy explains what information the app collects and how it is used.</p>
+
+<h2>Information We Collect</h2>
+<p>When you use GhostTag, the app collects:</p>
+<ul>
+  <li><strong>Location data:</strong> Your device's GPS location is used to show your position to other players in the same game (subject to the game's visibility rules — for example, hiders cannot see seekers), and to detect when a seeker is close enough to tag a hider. Depending on the game's settings, your location may be shown precisely or blurred to an approximate area.</li>
+  <li><strong>Account identifier:</strong> The app uses anonymous authentication to identify your device during a game session. No password or personal account is required.</li>
+  <li><strong>Display name and email:</strong> The name and email you enter are shown to other players in your game (for example, in the player list and in chat).</li>
+  <li><strong>Game and chat data:</strong> Messages you send in chat, your role in the game (hider/seeker/spectator), and your capture status are stored so the game can function for all participants.</li>
+</ul>
+
+<h2>How Information Is Used</h2>
+<p>All data collected is used solely to operate the game itself: showing player positions on the map according to each player's role, enabling in-game chat, and determining game outcomes. We do not sell or share your information with third parties, and we do not use your data for advertising.</p>
+
+<h2>Data Storage</h2>
+<p>Game data is stored using Google Firebase (Firestore and Authentication), a third-party cloud service. Data is retained only as long as needed to support an active game and is not used beyond the session it was created for.</p>
+
+<h2>Location Data Note</h2>
+<p>Precise location is only ever collected while you are actively participating in a game, and only to support core game mechanics (showing other players on the map and detecting captures). You can disable location access at any time in your device settings, though this will prevent the app from functioning correctly.</p>
+
+<h2>Children's Privacy</h2>
+<p>GhostTag is not directed at children under 13, and we do not knowingly collect information from children under 13.</p>
+
+<h2>Changes to This Policy</h2>
+<p>If this policy changes, the updated version will be posted at this same URL with a revised "Last updated" date.</p>
+
+<h2>Contact</h2>
+<p>Questions about this policy can be sent to: lawsondamac@gmail.com</p>
+
+</body>
+</html>
